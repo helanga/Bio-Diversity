@@ -1,0 +1,33 @@
+  /*body {
+
+   color: #faf4f4; 
+  }*/
+  .jumbotron {
+    background-image: url("../Images/Navelgazing.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
+  .jumbotron h1{
+    color: #fff;
+}
+
+.jumbotron p{
+    color: #fff;
+}
+.row > div {
+  background: rgb(12, 12, 12);
+  border: 10px solid grey;
+}
+
+
+/*
+  input[type="text"], textarea {
+
+    background-color : #646262; 
+  
+  }
+
+  .list-group {
+    background-color: rgb(110, 109, 109);
+}*/
+
